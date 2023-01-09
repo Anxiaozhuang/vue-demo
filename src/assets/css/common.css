@@ -1,0 +1,26 @@
+.wrapper{
+    width: 1240px;
+    margin: 0 auto;
+}
+.short-cut{
+    height: 52px;
+    background-color: #333;
+}
+.short-cut .wrapper{
+    height: 52px;
+    /* background-color: bisque; */
+}
+.short-cut .wrapper ul{
+    float: right;
+}
+.short-cut .wrapper li{
+    float: left;
+    line-height: 52px;
+}
+.short-cut .wrapper a{
+    padding: 0 16px;
+    font-size: 14px;
+    color:aliceblue;
+    /* border-right: 1px solid #666; */
+}
+
