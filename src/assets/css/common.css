@@ -4,7 +4,7 @@
 }
 .short-cut{
     height: 52px;
-    background-color: #333;
+    background-color: #E6E6FA;
 }
 .short-cut .wrapper{
     height: 52px;
@@ -20,7 +20,7 @@
 .short-cut .wrapper a{
     padding: 0 16px;
     font-size: 14px;
-    color:aliceblue;
+    color:#696969;
     /* border-right: 1px solid #666; */
 }
 
